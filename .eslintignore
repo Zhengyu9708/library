@@ -1,0 +1,5 @@
+/dist/
+/src/assets/js/utils/rsa.js
+/src/assets/js/utils/mqttws.js
+/src/assets/js/utils/pinyinlite.js
+/src/assets/js/utils/webvideoctrl.js
